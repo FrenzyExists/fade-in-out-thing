@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyS0",
+    "sketch": "sketch.ino",
+    "output": "build"
+}
